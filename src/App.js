@@ -1,6 +1,6 @@
 import Routes from "./Routes";
-import Template from "./components/Template";
 //import "bootstrap/dist/css/bootstrap.min.css"
+import Template from "./components/Template";
 
 function App() {
   return (
